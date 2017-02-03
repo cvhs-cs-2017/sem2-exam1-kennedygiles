@@ -2,8 +2,11 @@
 than 100.  It should then spit out the result AND tell the user how many times
 it had to add 5 (if any)"""
 
-
-
+count = 0
+while (count < 110):
+    print('the count is' , count)
+    count = count + 5
+    
 
 
 
